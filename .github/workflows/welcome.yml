@@ -5,4 +5,6 @@ on:
 permissions:
   pull-requests: write
 jobs:
+run:
+name:post on welcome comment
 runs-on: Ubuntu-latest
